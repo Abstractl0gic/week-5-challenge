@@ -4,8 +4,6 @@
 
 A simple daily planner web application for scheduling your work day.
 
-![Work Day Scheduler](screenshot.png)
-
 ## Features
 
 - Displays the current day at the top of the calendar.
